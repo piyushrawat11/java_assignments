@@ -2,7 +2,7 @@ package collections;
 
 import java.util.*;
 
-public class HashAccountMap {
+public class HashAccountmap {
 
 	public static void main(String[] args) {
 		Map<account, Double> map = new HashMap<>();

@@ -1,4 +1,4 @@
-package learnJava;
+package collections;
 
 public class StringBuilderEx {
 
